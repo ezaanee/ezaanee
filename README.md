@@ -1,13 +1,18 @@
-## Hi, Im Izanee binti Rahmat👋
+## Hi, saya Izanee 👋
 
-###
+Selamat datang ke profil GitHub saya! Saya baru sahaja bermula dalam dunia pengaturcaraan dan pembelajaran GitHub.
 
-- 🔭 I’m currently working on my GitHub profile
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👨‍💻 Mengenai Saya
+- 🔭 **Sedang belajar:** GitHub, Asas Pengaturcaraan, dan Web Development.
+- 🌱 **Matlamat:** Ingin menjadi seorang pembangun perisian yang mahir.
+- 💬 **Tanya saya tentang:** Asas-asas pembelajaran yang sedang saya terokai.
+- 📬 **Cara hubungi saya:** [LinkedIn / Email / Instagram anda]
+
+## 🛠️ Kemahiran & Alat (Tools)
+- **Bahasa:** HTML, CSS, JavaScript *(sebutkan apa yang anda belajar)*
+- **Alat:** Git, GitHub, VS Code
+
+## 📊 Statistik GitHub
+---
+⭐️ *Terima kasih kerana melawat profil saya!*
 -->
