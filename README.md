@@ -6,7 +6,7 @@ Selamat datang ke profil GitHub saya! Saya baru sahaja bermula dalam dunia penga
 - 🔭 **Sedang belajar:** GitHub, Asas Pengaturcaraan, dan Web Development.
 - 🌱 **Matlamat:** Ingin menjadi seorang pembangun perisian yang mahir.
 - 💬 **Tanya saya tentang:** Asas-asas pembelajaran yang sedang saya terokai.
-- 📬 **Cara hubungi saya:** [LinkedIn / Email / Instagram anda]
+- 📬 **Cara hubungi saya:** LinkedIn: ezaanee Email: ezaneerahmat@gmail.com Instagram: ezaanee
 
 ## 🛠️ Kemahiran & Alat (Tools)
 - **Bahasa:** HTML, CSS, JavaScript *(sebutkan apa yang anda belajar)*
